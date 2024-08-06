@@ -41,7 +41,7 @@
 
 ### 5. 下载 Python 脚本
 
-此处为cpzs-v*.py
+此处为cpzs-v2.1.py
 
 ### 6. 运行可执行文件
 
@@ -52,7 +52,7 @@
 cd C:\Users\YourUsername\scripts`
 运行以下命令将脚本使用`PyInstaller`打包成可执行文件：
 
-	`pyinstaller --onefile --windowed copzs-v*.py`
+	`pyinstaller --onefile --windowed cpzs-v2.1.py`
 	
 	`--windowed` 参数确保生成的程序不会打开命令行窗口。
 	
